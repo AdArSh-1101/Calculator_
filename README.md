@@ -26,7 +26,7 @@ To run this application, you need to have Flutter installed. If you haven't inst
 Run the app:
   flutter run
 
-##Usage
+## Usage
 Launch the app on your device/emulator.
 Perform calculations using the calculator buttons.
 Explore various features such as addition, subtraction, multiplication, and division.
@@ -34,5 +34,5 @@ Use the Clear (C) button to reset the input.
 Press the Equal (=) button to calculate the result.
 
 
-##Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix any bugs.
