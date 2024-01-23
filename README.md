@@ -40,11 +40,11 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 
 
 
-<details>
-  <summary><strong>Important Note</strong></summary>
 
-  <div style="background-color: #FFFFE0; padding: 10px; border: 1px solid #E6DB55;">
-    The apk is present as app-release.apk
-  </div>
-</details>
+ 
+
+
+ <p style="color: #FF5733;">The apk is present as app-release.apk</p>
+ 
+
 
