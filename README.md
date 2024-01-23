@@ -44,7 +44,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
  
 
 
- <p style="color: #FF5733;">The apk is present as app-release.apk</p>
+ <strong style="color: red;">The installable application is present as app-release.apk</strong>
  
 
 
