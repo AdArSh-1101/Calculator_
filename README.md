@@ -1,16 +1,38 @@
-# calc
+# Calculator
 
-A new Flutter project.
+A simple calculator app built with Flutter.
+
+## Overview
+
+This Flutter application is a basic calculator that allows users to perform arithmetic operations such as addition, subtraction, multiplication, and division. It provides a clean and intuitive user interface for performing calculations.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear (C)
+- Equal (=)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application, you need to have Flutter installed. If you haven't installed Flutter, follow the [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
+   git clone https://github.com/AdArSh-1101/Calculator_.git
+1. navigate
+   cd calculator
+Run the app:
+  flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Usage
+Launch the app on your device/emulator.
+Perform calculations using the calculator buttons.
+Explore various features such as addition, subtraction, multiplication, and division.
+Use the Clear (C) button to reset the input.
+Press the Equal (=) button to calculate the result.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+##Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix any bugs.
